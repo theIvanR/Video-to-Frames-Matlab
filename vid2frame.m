@@ -1,6 +1,6 @@
 %% Matlab Video to Frames
-vid=VideoReader('video.mov');
-n = vid.NumberOfFrames;
+vid=VideoReader('video.mov')
+n = vid.NumberOfFrames
 
 for i = 1:2:n
     frames = read(vid,i);
