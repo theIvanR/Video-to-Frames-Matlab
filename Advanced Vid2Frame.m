@@ -3,9 +3,10 @@
 % Specify the source and frames folder paths
 sourceFolder = 'Source'; 
 framesFolder = 'Frames';
+binning = 1;
 
 % Get a list of all video files in the source folder
-videoFiles = dir(fullfile(sourceFolder, '*.avi')); % Update the file extension if necessary
+videoFiles = dir(fullfile(sourceFolder, '*.mp4')); % Update the file extension if necessary
 
 % Loop through each video file
 for fileIndex = 1:length(videoFiles)
@@ -24,7 +25,7 @@ for fileIndex = 1:length(videoFiles)
     end
 
     % Loop through frames and save them with the source file name and frame number
-    for frameIndex = 1:2:n 
+    for frameIndex = 1:binning:n 
         frames = read(vid, frameIndex);
 
         % Save as either same name or with index name
