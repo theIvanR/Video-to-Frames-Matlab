@@ -27,12 +27,12 @@ Usage
     Run the Script:
         Open MATLAB and navigate to the directory where the script is located.
         Run the script by entering its name in the command window.
+        Feel free to submit pull requests or create issues for any enhancements or bugs you encounter.
+
 Contributing
-Feel free to submit pull requests or create issues for any enhancements or bugs you encounter.
+
+        Feel free to submit pull requests or create issues for any enhancements or bugs you encounter.
+
 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Acknowledgments
-
-    Thanks to the MATLAB community for their extensive documentation and support.
+    This project is licensed under the MIT License. See the LICENSE file for more details.
