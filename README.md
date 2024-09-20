@@ -31,7 +31,7 @@ Usage
 
 Contributing
 
-        Feel free to submit pull requests or create issues for any enhancements or bugs you encounter.
+    Feel free to submit pull requests or create issues for any enhancements or bugs you encounter.
 
 License
 
