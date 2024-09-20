@@ -1,4 +1,4 @@
-Video Frame Extraction Tool
+# Video Frame Extraction Tool
 
 This repository contains a MATLAB script for extracting frames from video files. The script reads all .mp4 videos from a specified source directory and saves the extracted frames as .bmp files in a designated output directory.
 Features
