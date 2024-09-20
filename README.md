@@ -33,7 +33,3 @@ Usage
 Contributing
 
     Feel free to submit pull requests or create issues for any enhancements or bugs you encounter.
-
-License
-
-    This project is licensed under the MIT License. See the LICENSE file for more details.
